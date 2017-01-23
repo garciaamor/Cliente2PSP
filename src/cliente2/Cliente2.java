@@ -11,7 +11,7 @@ import java.net.Socket;
 import javax.swing.JOptionPane;
 
 public class Cliente2 {
-
+//Hacer en casa
     
     public static void main(String[] args) {
         int num1=0;
