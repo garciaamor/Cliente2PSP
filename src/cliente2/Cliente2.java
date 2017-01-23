@@ -21,7 +21,7 @@ public class Cliente2 {
         
        try{
             System.out.println("Creando socket cliente");
-            Socket clienteSocket=new Socket("localhost",5555);
+            Socket clienteSocket=new Socket("localhost",5556);
             System.out.println("Estableciendo la conexion");
 
                         
